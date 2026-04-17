@@ -1,0 +1,15 @@
+[project]
+name = "proof_annotations"
+version = "0.1.0"
+description = "Proof annotations: Variant and Invariant"
+authors = [
+{ name = "Viraj Kumar" }
+]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["proof_annotations"]
