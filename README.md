@@ -1,6 +1,8 @@
 # proof_annotations
 
-`proof_annotations` is a lightweight Python package that provides annotation utilities for working with proof-related text and metadata.
+`proof_annotations` is a lightweight Python package that provides annotation for:
+- Proving termination (using `Variant`)
+- Proving correctness (using `Invariant`)
 
 ## Installation
 
